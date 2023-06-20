@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Matango.java&apos; to &apos;PR376/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;PR307&apos;&#x0D;&#x0A;- 宛先要素: &apos;PR376/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Matango.java&apos;" description="コンパイル単位をコピー" destination="=PR376/src&lt;" element1="/src&lt;{Matango.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685237600948" units="1" version="1.0"/>
+</session>

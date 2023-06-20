@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\matsuda\Desktop\EX006.jar"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-22"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-21"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-20"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-19"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-18"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-17"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-16"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-15"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-14"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-13"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-12"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-11"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-10"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-8"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-7"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-6"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-5"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-2"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter4\4-1"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter3\3-20"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="91"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="650"/>
+		<item key="DIALOG_FONT_NAME" value="1|Yu Gothic UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Yu Gothic UI"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\matsuda\Desktop\workspace"/>
+			<item value="C:\Users\matsuda\Desktop\追加\EX0404"/>
+			<item value="C:\Users\matsuda\Desktop\追加\EX0403"/>
+			<item value="C:\Users\matsuda\Desktop\EX0303"/>
+			<item value="C:\Users\matsuda\Desktop\EX0221"/>
+			<item value="C:\Users\matsuda\Desktop\EX0220"/>
+			<item value="C:\Users\matsuda\Desktop\EX008A"/>
+			<item value="C:\Users\matsuda\Desktop\JavaSource\lists\chap00"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter3\3-8"/>
+			<item value="C:\Users\matsuda\Desktop\EX0221"/>
+			<item value="C:\Users\matsuda\Desktop\02_JavaBronzeSE問題集ソース\chapter1\1-1"/>
+			<item value="C:\Users\matsuda\Desktop\JavaSource\lists\chap12\list12-01"/>
+			<item value="C:\Users\matsuda\Desktop\JavaSource\lists\chap08\list08-01"/>
+			<item value="C:\JavaIDE\workspace\list00-01"/>
+			<item value="C:\Users\matsuda\Desktop\JavaSource\lists\chap00\list00-01"/>
+			<item value="C:\Users\matsuda\Desktop\JavaSource\lists\chap10\list10-01"/>
+		</list>
+	</section>
+</section>
