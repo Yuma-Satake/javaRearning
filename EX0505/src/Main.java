@@ -19,6 +19,10 @@ public class Main {
         System.out.println(p1.getDate());
         System.out.println(p1.isStock());
 
+        // インスタンスの内容を一括して表示
+        System.out.println(p1.toString());
 
+        // 追加メソッドのテスト
+        System.out.println(p1.totalPrice(10));
     }
 }

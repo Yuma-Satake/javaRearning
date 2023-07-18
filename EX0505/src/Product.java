@@ -58,4 +58,14 @@ public class Product {
         this.stock = stock;
     }
 
+    @Override
+    public String toString() {
+        return "Product [number=" + number + ", name=" + name + ", price=" + price + ", date="
+                + date + ", stock=" + stock + "]";
+    }
+
+    public int totalPrice(int quantity) {
+        return price * quantity;
+    }
+
 }
